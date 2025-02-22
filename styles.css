@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(241, 238, 238);
+}
+h1{
+    text-align: center;
+}
+h2{
+    color: red;
+    background-color: gray;
+}
+p{
+    background-color: rgb(204, 202, 202);
+}
+span {
+    color: blue; /* Color azul */
+    text-decoration: underline; /* Subrayado */
+}
+strong{
+    color:green;
+}
