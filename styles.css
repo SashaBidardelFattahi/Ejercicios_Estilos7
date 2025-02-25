@@ -12,8 +12,8 @@ p{
     background-color: rgb(204, 202, 202);
 }
 span {
-    color: blue; /* Color azul */
-    text-decoration: underline; /* Subrayado */
+    color: blue; 
+    text-decoration: underline; 
 }
 strong{
     color:green;
